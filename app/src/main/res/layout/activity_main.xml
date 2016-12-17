@@ -38,4 +38,10 @@
         android:id="@+id/button"
         android:layout_below="@+id/editText"
         android:layout_centerHorizontal="true" />
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/button"
+        android:src="@drawable/zeta"/>
 </RelativeLayout>
